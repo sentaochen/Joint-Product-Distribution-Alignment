@@ -8,12 +8,12 @@ This repository provides the Pytorch code for the work "Domain Generalization by
 
 For more details of this domain generalization approach,  please refer to the following PR work: 
 
-@article{Chen2022DomainGeneralization,
-title = {Domain Generalization by Joint-Product Distribution Alignment},
-journal = {Pattern Recognition},
-pages = {109086},
-year = {2022},
-doi = {https://doi.org/10.1016/j.patcog.2022.109086},
-author = {Sentao Chen and Lei Wang and Zijie Hong and Xiaowei Yang}
-}
+@article{Chen2022DomainGeneralization,  
+  author={Sentao Chen and Lei Wang and Zijie Hong and Xiaowei Yang},  
+  journal={Pattern Recognition},   
+  title={Domain Generalization by Joint-Product Distribution Alignment},   
+  year={2022},   
+  pages={109086},  
+  doi={https://doi.org/10.1016/j.patcog.2022.109086}  
+  }
 
